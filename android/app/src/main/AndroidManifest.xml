@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="bytelogik_test"
+        android:label="Bytelogik Test"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

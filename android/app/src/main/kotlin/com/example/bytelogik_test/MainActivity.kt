@@ -1,4 +1,4 @@
-package com.example.bytelogik_test
+package com.bytelogik_test
 
 import io.flutter.embedding.android.FlutterActivity
 
